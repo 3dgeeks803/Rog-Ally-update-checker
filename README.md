@@ -1,0 +1,1 @@
+I have created an .exe for the Rog Ally devices that will automatically check Armory Crate, Windows, Microsoft Store, and MYASUS for any pending updates. If it finds any updates, it will notify you in one interface and let you update with a single click.
